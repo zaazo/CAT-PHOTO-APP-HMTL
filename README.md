@@ -1,4 +1,4 @@
-# CatPhotoApp Readme
+# CatPhotoApp 
 
 ## Introduction
 CatPhotoApp is a simple HTML webpage showcasing cat photos, lists of things cats love and hate, and a form to submit your own cat photos. This project is designed as a static webpage and does not require any server-side functionality.
