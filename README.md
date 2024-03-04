@@ -6,11 +6,6 @@ CatPhotoApp is a simple HTML webpage showcasing cat photos, lists of things cats
 ## Getting Started
 To run the CatPhotoApp locally, simply download the HTML file (`index.html`) and open it in a web browser. You can also deploy it on a web server to make it accessible online.
 
-```bash
-git clone https://github.com/yourusername/catphotoapp.git
-cd catphotoapp
-```
-
 ## Features
 ### Cat Photos
 - Display a collection of cat photos.
