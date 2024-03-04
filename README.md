@@ -1,41 +1,35 @@
-# CatPhotoApp 
+# Cat Photo App
 
-## Introduction
-CatPhotoApp is a simple HTML webpage showcasing cat photos, lists of things cats love and hate, and a form to submit your own cat photos. This project is designed as a static webpage and does not require any server-side functionality.
+## Description
 
-## Getting Started
-To run the CatPhotoApp locally, simply download the HTML file (`index.html`) and open it in a web browser. You can also deploy it on a web server to make it accessible online.
+This project is a simple web application showcasing cat photos and information using HTML. It features sections for viewing cat photos, lists of things cats love and hate, and a form to submit cat photos.
+
+## Preview
+
+Cat Photo App Preview
+![image](https://github.com/zaazo/CAT-PHOTO-APP-HMTL/assets/99763690/196e3ffd-df43-4826-8dcc-eafb613ed34d)
 
 ## Features
-### Cat Photos
-- Display a collection of cat photos.
-- Clicking on a cat photo redirects to a gallery of cat photos.
 
-### Cat Lists
-- List things that cats love and hate.
-- Include images related to cats' preferences.
-
-### Cat Form
-- Form to submit a cat photo, indicating whether the cat is indoor or outdoor.
-- Capture the cat's personality through checkboxes.
-- Input field to provide the cat photo URL.
-- Submit button to send the cat photo.
+- **Cat Photos**: Display a cute cat photo with a link to view more cat photos in the gallery.
+- **Cat Lists**: Lists of things cats love and hate, with corresponding images and captions.
+- **Cat Form**: A form to submit cat photos, with options to specify whether the cat is indoor or outdoor and its personality.
 
 ## Usage
-1. Open `index.html` in a web browser.
-2. Explore different sections:
-   - Cat Photos
-   - Cat Lists
-   - Cat Form
+
+- Explore cat photos and lists.
+- Submit your own cat photo using the form.
 
 ## Contributing
-Feel free to contribute to the CatPhotoApp project by submitting pull requests. If you have ideas for improvements or new features, please open an issue to discuss them.
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Credits
+
+This project was created as part of a web development tutorial on freeCodeCamp.
+
+- [freeCodeCamp](https://www.freecodecamp.org) - For providing the tutorial and necessary assets.
 
 ## License
-CatPhotoApp is open-source and released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial projects.
 
-## Acknowledgements
-- The CatPhotoApp is brought to you by [freeCodeCamp.org](https://www.freecodecamp.org).
-- Images used in this project are sourced from freeCodeCamp's curriculum.
-
-Enjoy exploring the CatPhotoApp! 🐾
+This project is licensed under the MIT License 
