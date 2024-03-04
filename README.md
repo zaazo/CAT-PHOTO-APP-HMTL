@@ -6,7 +6,6 @@ This project is a simple web application showcasing cat photos and information u
 
 ## Preview
 
-Cat Photo App Preview
 ![image](https://github.com/zaazo/CAT-PHOTO-APP-HMTL/assets/99763690/196e3ffd-df43-4826-8dcc-eafb613ed34d)
 
 ## Features
